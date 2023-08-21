@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **faraz.ahmad.fsd@gmail.com**
 
-- ⚡ Fun fact **Love to play chess.**
+- ⚡ Fun fact **Centered a div without Googling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
