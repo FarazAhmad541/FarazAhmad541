@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faraz</h1>
-<h3 align="center">Fronted developer empowering people and small-medium businesss, turning their digital dreams into reality.</h3>
+<h3 align="center">Frontend developer empowering people and small-medium businesss, turning their digital dreams into reality.</h3>
 
 - 🔭 I’m currently working on **My Personal portfolio website**
 
